@@ -1,4 +1,4 @@
 # navaani-ui
 html css &amp; javascript, e commerce ui
 
-https://swarupbhanjachowdhury.github.io/navaani-ui/
+https://swarup13.github.io/navaani-ui/
